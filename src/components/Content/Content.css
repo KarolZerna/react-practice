@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 30px;
+}
+
+.image {
+  flex-direction: column;
+}

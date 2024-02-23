@@ -1,0 +1,18 @@
+{
+  "tags": [
+    {
+      "id": 5,
+      "label": "Realism"
+    },
+    {
+      "id": 1,
+      "label": "Abstract"
+    }
+  ],
+  "createdAt": 1568044681586,
+  "updatedAt": 1568044681586,
+  "id": 6788,
+  "title": "image",
+  "imageUrl": "https://live.staticflickr.com/8252/8635301584_cb3856f7fb_n.jpg",
+  "thumbnailUrl": "https://live.staticflickr.com/8252/8635301584_cb3856f7fb_n.jpg"
+}
